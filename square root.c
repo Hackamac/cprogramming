@@ -1,5 +1,5 @@
 /*
-student name: anuj shrestha
+student name: Ragav Upreti
 subject: programming fundamental
 lab sheet no: 7
 program: wap to enter any number and find its square root.
