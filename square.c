@@ -1,8 +1,9 @@
 /*
-student name: anuj shrestha
+student name: ragav upreti
 subject: programming fundamental
 lab sheet no: 7
 program: wap to enter any number and find its square.
+date:28th nov
 */
 
 #include<stdio.h>
