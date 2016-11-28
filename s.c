@@ -3,6 +3,7 @@ Student Name: Ragav Upreti
 Subject : Programming fundamental
 Lab sheet No. : 7
 Program: WAP to enter the marks of 7 subject and produce result
+Date: Nov 28
 */
 
 #include<stdio.h>
