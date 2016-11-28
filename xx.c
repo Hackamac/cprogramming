@@ -1,3 +1,10 @@
+/*
+student name: Ragav Upreti
+Subject:
+Program:
+lab sheet no:
+Date:
+*/
 int main ()
 {
     int a,b,x;
