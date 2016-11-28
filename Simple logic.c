@@ -14,7 +14,7 @@ int main()
 int a;
 prinf("Enter a number: \n");
 scanf("%d",a);
-if (n/2==0)
+if (a/2==0)
 {
     printf("Number is even: \n");
 }
@@ -22,7 +22,7 @@ else
 {
 printf("number is odd \n");
 }
-if (n>0)
+if (a>0)
 {
     printf("number is positive \n ");
 
