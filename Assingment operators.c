@@ -18,7 +18,7 @@ scanf("%d",&a);
 printf("Enter the second number: \n");
 scanf("%d",&b);
 a+=b;
-printf("+= %d",a);
+printf("a+=b %d",a);
 
 getch ();
 return 0;
