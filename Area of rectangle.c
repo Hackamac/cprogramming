@@ -1,7 +1,7 @@
 /*
 student name: Ragav Upreti
-Subject:
-Program:
+Subject:Programming Fundamental
+Program:WAP to find the area of rectangle
 lab sheet no:
 Date:
 */
