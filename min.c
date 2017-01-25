@@ -10,9 +10,10 @@
  int check();
  int main()
  
- {
+ { int res;
+ res=check();
  
- check();
+ printf("the minimum number is %d",res);
  
 
  
@@ -31,13 +32,13 @@
 	 printf("Enter another number \n");
 	 scanf("%d",&b);
 	 
-	 if (a>b)
-	 printf("%d is greater",a);
+	 if (a<b)
+	 return a;
 	 
 	 else 
-	 printf("%d is greater ",b);
+	 
 	  
-	  return 0;
+	  return b;
   }
   
 	 
